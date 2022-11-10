@@ -1,5 +1,6 @@
 ﻿using PyCINE_01.datos;
 using PyCINE_01.Entidades;
+using PyCINE_01.Reportes;
 using PyCINE_01.servicios;
 using PyCINE_01.servicios.Interfaz;
 using System;
@@ -89,5 +90,26 @@ namespace PyCINE_01.Forms
             dgvReserva.Dispose();
             btnNueva.Dispose();
         }
+
+        private void lbl_cerrar_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void dgvReserva_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            if (dgvReserva.CurrentCell.ColumnIndex == 6)
+            {
+                //aca mandamos a imprimir el ticket
+                MostrarReporte mostrar = new MostrarReporte();
+                mostrar.Id_ticket = dgvReserva.CurrentCell.ColumnIndex;
+
+                mostrar.ShowDialog();
+                
+                //este id se lo tengo q enviar al FormReporte                
+
+            }
+        }
+
     }
 }

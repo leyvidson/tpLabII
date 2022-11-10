@@ -1,4 +1,5 @@
-﻿using System;
+﻿using PyCINE_01.Reportes;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -17,6 +18,7 @@ namespace PyCINE_01
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new FormPrincipal());
+            //Application.Run(new FormReporte());
         }
     }
 }

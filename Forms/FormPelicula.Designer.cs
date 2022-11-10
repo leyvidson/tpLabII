@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormPelicula));
             this.label1 = new System.Windows.Forms.Label();
             this.btnNueva = new System.Windows.Forms.Button();
             this.lblCerrar = new System.Windows.Forms.Label();
@@ -42,6 +41,7 @@
             this.fec_estreno_pelicula = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.genero_pelicula = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.panelContenedorPeliculas = new System.Windows.Forms.Panel();
+            this.CerrarLbl = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dgvPeliculas)).BeginInit();
             this.panelContenedorPeliculas.SuspendLayout();
             this.SuspendLayout();
@@ -59,18 +59,18 @@
             // btnNueva
             // 
             this.btnNueva.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnNueva.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnNueva.FlatAppearance.BorderSize = 0;
+            this.btnNueva.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.btnNueva.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnNueva.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnNueva.ForeColor = System.Drawing.Color.DarkGoldenrod;
-            this.btnNueva.Image = ((System.Drawing.Image)(resources.GetObject("btnNueva.Image")));
+            this.btnNueva.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnNueva.ForeColor = System.Drawing.Color.Black;
             this.btnNueva.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnNueva.Location = new System.Drawing.Point(3, 384);
+            this.btnNueva.Location = new System.Drawing.Point(0, 342);
             this.btnNueva.Name = "btnNueva";
             this.btnNueva.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.btnNueva.Size = new System.Drawing.Size(196, 55);
+            this.btnNueva.Size = new System.Drawing.Size(121, 55);
             this.btnNueva.TabIndex = 1;
-            this.btnNueva.Text = "         Nueva   ";
+            this.btnNueva.Text = "Nueva   ";
             this.btnNueva.UseVisualStyleBackColor = true;
             this.btnNueva.Click += new System.EventHandler(this.btnNueva_Click);
             // 
@@ -102,7 +102,7 @@
             this.genero_pelicula});
             this.dgvPeliculas.Location = new System.Drawing.Point(0, 56);
             this.dgvPeliculas.Name = "dgvPeliculas";
-            this.dgvPeliculas.Size = new System.Drawing.Size(688, 289);
+            this.dgvPeliculas.Size = new System.Drawing.Size(716, 289);
             this.dgvPeliculas.TabIndex = 3;
             this.dgvPeliculas.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvPeliculas_CellContentClick);
             // 
@@ -155,20 +155,33 @@
             // 
             // panelContenedorPeliculas
             // 
+            this.panelContenedorPeliculas.Controls.Add(this.CerrarLbl);
             this.panelContenedorPeliculas.Controls.Add(this.dgvPeliculas);
             this.panelContenedorPeliculas.Controls.Add(this.btnNueva);
             this.panelContenedorPeliculas.Controls.Add(this.label1);
             this.panelContenedorPeliculas.Location = new System.Drawing.Point(2, 0);
             this.panelContenedorPeliculas.Name = "panelContenedorPeliculas";
-            this.panelContenedorPeliculas.Size = new System.Drawing.Size(688, 451);
+            this.panelContenedorPeliculas.Size = new System.Drawing.Size(716, 421);
             this.panelContenedorPeliculas.TabIndex = 4;
             this.panelContenedorPeliculas.Paint += new System.Windows.Forms.PaintEventHandler(this.panelContenedorPeliculas_Paint);
+            // 
+            // CerrarLbl
+            // 
+            this.CerrarLbl.AutoSize = true;
+            this.CerrarLbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.CerrarLbl.Location = new System.Drawing.Point(691, 9);
+            this.CerrarLbl.Name = "CerrarLbl";
+            this.CerrarLbl.Size = new System.Drawing.Size(22, 22);
+            this.CerrarLbl.TabIndex = 4;
+            this.CerrarLbl.Text = "X";
+            this.CerrarLbl.Click += new System.EventHandler(this.CerrarLbl_Click);
             // 
             // FormPelicula
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(688, 451);
+            this.AutoScroll = true;
+            this.ClientSize = new System.Drawing.Size(718, 454);
             this.Controls.Add(this.panelContenedorPeliculas);
             this.Controls.Add(this.lblCerrar);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
@@ -197,5 +210,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn fec_estreno_pelicula;
         private System.Windows.Forms.DataGridViewTextBoxColumn genero_pelicula;
         private System.Windows.Forms.Panel panelContenedorPeliculas;
+        private System.Windows.Forms.Label CerrarLbl;
     }
 }

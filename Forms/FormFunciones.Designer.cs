@@ -31,13 +31,13 @@
             this.panelContenedorFunciones = new System.Windows.Forms.Panel();
             this.lblCerrar = new System.Windows.Forms.Label();
             this.dgvFunciones = new System.Windows.Forms.DataGridView();
-            this.lblFunciones = new System.Windows.Forms.Label();
             this.id_funcion = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.id_pelicula = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.horario = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.precio = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.id_lenguaje = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.id_sala = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.lblFunciones = new System.Windows.Forms.Label();
             this.panelContenedorFunciones.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvFunciones)).BeginInit();
             this.SuspendLayout();
@@ -55,9 +55,10 @@
             // lblCerrar
             // 
             this.lblCerrar.AutoSize = true;
-            this.lblCerrar.Location = new System.Drawing.Point(671, 0);
+            this.lblCerrar.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCerrar.Location = new System.Drawing.Point(663, 0);
             this.lblCerrar.Name = "lblCerrar";
-            this.lblCerrar.Size = new System.Drawing.Size(14, 13);
+            this.lblCerrar.Size = new System.Drawing.Size(22, 22);
             this.lblCerrar.TabIndex = 2;
             this.lblCerrar.Text = "X";
             this.lblCerrar.Click += new System.EventHandler(this.lblCerrar_Click);
@@ -76,16 +77,6 @@
             this.dgvFunciones.Name = "dgvFunciones";
             this.dgvFunciones.Size = new System.Drawing.Size(681, 301);
             this.dgvFunciones.TabIndex = 1;
-            // 
-            // lblFunciones
-            // 
-            this.lblFunciones.AutoSize = true;
-            this.lblFunciones.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblFunciones.Location = new System.Drawing.Point(288, 20);
-            this.lblFunciones.Name = "lblFunciones";
-            this.lblFunciones.Size = new System.Drawing.Size(86, 20);
-            this.lblFunciones.TabIndex = 0;
-            this.lblFunciones.Text = "Funciones";
             // 
             // id_funcion
             // 
@@ -117,6 +108,16 @@
             // 
             this.id_sala.HeaderText = "Sala";
             this.id_sala.Name = "id_sala";
+            // 
+            // lblFunciones
+            // 
+            this.lblFunciones.AutoSize = true;
+            this.lblFunciones.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblFunciones.Location = new System.Drawing.Point(288, 20);
+            this.lblFunciones.Name = "lblFunciones";
+            this.lblFunciones.Size = new System.Drawing.Size(93, 22);
+            this.lblFunciones.TabIndex = 0;
+            this.lblFunciones.Text = "Funciones";
             // 
             // FormFunciones
             // 

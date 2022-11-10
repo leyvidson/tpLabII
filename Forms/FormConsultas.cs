@@ -8,19 +8,18 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace PyCINE_01.Reportes
+namespace PyCINE_01.Forms
 {
-    public partial class FormReporte : Form
+    public partial class FormConsultas : Form
     {
-        public FormReporte()
+        public FormConsultas()
         {
             InitializeComponent();
         }
 
-        private void FormReporte_Load(object sender, EventArgs e)
+        private void lblCerrarConsultas_Click(object sender, EventArgs e)
         {
-            
-            this.reportViewer1.RefreshReport();
+            this.Close();
         }
     }
 }

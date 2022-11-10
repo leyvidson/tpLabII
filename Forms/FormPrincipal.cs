@@ -201,7 +201,7 @@ namespace PyCINE_01
         private void iconButtonConsultas_Click(object sender, EventArgs e)
         {
             ActivateButton(sender, RGBColors.color5);
-            //AbrirFormInPanel(new FormFunciones());
+            AbrirFormInPanel(new FormConsultas());
         }
 
         private void iconButtonCerrar_Click(object sender, EventArgs e)
@@ -227,6 +227,11 @@ namespace PyCINE_01
             this.WindowState = FormWindowState.Normal;
             iconButtonRestaurar.Visible = false;
             iconButtonMaximizar.Visible = true;
+        }
+
+        private void iconButtonMinimizar_Click(object sender, EventArgs e)
+        {
+            this.WindowState = FormWindowState.Minimized;
         }
     }
 }

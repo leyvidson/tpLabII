@@ -109,5 +109,10 @@ namespace PyCINE_01.Forms
         {
             AbrirFormInPanel(new NuevaPelicula());
         }
+
+        private void CerrarLbl_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

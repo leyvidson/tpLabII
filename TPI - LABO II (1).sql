@@ -859,19 +859,27 @@ SET @resultado = (SELECT id_ticket 'Ticket N.',
 RETURN @resultado
 END
 
-CREATE procedure [dbo].[p_imprimir_ticket]
+ALTER procedure [dbo].[p_imprimir_ticket]
 @id_ticket int
 AS
 begin
-SELECT id_ticket 'Ticket N.', 
-                         id_reserva 'N. Reserva', 
-						 p.titulo 'Pelicula', 
-						 f.tipo'Forma de Pago', 
-						 t.fecha 'Fecha'
+SELECT top  1 t.id_ticket 'Ticket', 
+                         r.id_reserva 'Reserva', 
+						 p.titulo 'Pelicula',
+						 t.fecha 'Fecha',
+						 s.tipo_sala 'Sala',
+						 b.id_butaca'Butaca',
+						 fu.precio'Importe',
+						 pr.descripcion'Promocion'
 				  FROM tickets t JOIN peliculas p 
 				  ON t.id_pelicula = p.id_pelicula 
-				  JOIN formas_de_pago f ON t.id_forma_de_pago = f.id_forma_de_pago
-				  WHERE id_ticket = @id_ticket
+				  JOIN reservas r on r.id_reserva = t.id_reserva
+				  join funciones fu on fu.id_funcion = r.id_funcion
+				  join detalles_reservas det on det.id_ticket = t.id_ticket
+				  join promociones pr on pr.id_promocion = det.id_promocion				  
+				  join salas s on s.id_sala = fu.id_sala
+				  join butacas b on b.id_sala = s.id_sala
+				  WHERE t.id_ticket = @id_ticket
 end
 
 exec p_imprimir_ticket 5

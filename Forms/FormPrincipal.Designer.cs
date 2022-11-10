@@ -277,6 +277,7 @@
             this.iconButtonMinimizar.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.iconButtonMinimizar.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.iconButtonMinimizar.UseVisualStyleBackColor = true;
+            this.iconButtonMinimizar.Click += new System.EventHandler(this.iconButtonMinimizar_Click);
             // 
             // iconButtonMaximizar
             // 

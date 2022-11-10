@@ -58,7 +58,8 @@
             this.btnNuevoCliente.FlatAppearance.BorderSize = 0;
             this.btnNuevoCliente.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.btnNuevoCliente.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnNuevoCliente.Location = new System.Drawing.Point(35, 372);
+            this.btnNuevoCliente.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnNuevoCliente.Location = new System.Drawing.Point(0, 298);
             this.btnNuevoCliente.Name = "btnNuevoCliente";
             this.btnNuevoCliente.Size = new System.Drawing.Size(126, 42);
             this.btnNuevoCliente.TabIndex = 3;
@@ -97,7 +98,7 @@
             this.fec_nac_cliente});
             this.dgvClientes.Location = new System.Drawing.Point(0, 45);
             this.dgvClientes.Name = "dgvClientes";
-            this.dgvClientes.Size = new System.Drawing.Size(595, 247);
+            this.dgvClientes.Size = new System.Drawing.Size(625, 247);
             this.dgvClientes.TabIndex = 0;
             // 
             // id_cliente
