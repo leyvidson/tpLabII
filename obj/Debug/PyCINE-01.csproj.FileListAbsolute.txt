@@ -1,0 +1,259 @@
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\Nueva carpeta\PyCINE-01\bin\Debug\PyCINE-01.exe.config
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\Nueva carpeta\PyCINE-01\bin\Debug\PyCINE-01.exe
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\Nueva carpeta\PyCINE-01\bin\Debug\PyCINE-01.pdb
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\Nueva carpeta\PyCINE-01\obj\Debug\PyCINE-01.csproj.AssemblyReference.cache
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\Nueva carpeta\PyCINE-01\obj\Debug\PyCINE-01.csproj.SuggestedBindingRedirects.cache
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\Nueva carpeta\PyCINE-01\obj\Debug\PyCINE_01.Form1.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\Nueva carpeta\PyCINE-01\obj\Debug\PyCINE_01.Properties.Resources.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\Nueva carpeta\PyCINE-01\obj\Debug\PyCINE-01.csproj.GenerateResource.cache
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\Nueva carpeta\PyCINE-01\obj\Debug\PyCINE-01.csproj.CoreCompileInputs.cache
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\Nueva carpeta\PyCINE-01\obj\Debug\PyCINE-01.exe
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\Nueva carpeta\PyCINE-01\obj\Debug\PyCINE-01.pdb
+C:\Users\Casa\Documents\TUP\LabII\tp\PyCINE-01\PyCINE-01\bin\Debug\PyCINE-01.exe.config
+C:\Users\Casa\Documents\TUP\LabII\tp\PyCINE-01\PyCINE-01\bin\Debug\PyCINE-01.exe
+C:\Users\Casa\Documents\TUP\LabII\tp\PyCINE-01\PyCINE-01\bin\Debug\PyCINE-01.pdb
+C:\Users\Casa\Documents\TUP\LabII\tp\PyCINE-01\PyCINE-01\obj\Debug\PyCINE-01.csproj.AssemblyReference.cache
+C:\Users\Casa\Documents\TUP\LabII\tp\PyCINE-01\PyCINE-01\obj\Debug\PyCINE-01.csproj.SuggestedBindingRedirects.cache
+C:\Users\Casa\Documents\TUP\LabII\tp\PyCINE-01\PyCINE-01\obj\Debug\PyCINE_01.FormPrincipal.resources
+C:\Users\Casa\Documents\TUP\LabII\tp\PyCINE-01\PyCINE-01\obj\Debug\PyCINE_01.Properties.Resources.resources
+C:\Users\Casa\Documents\TUP\LabII\tp\PyCINE-01\PyCINE-01\obj\Debug\PyCINE-01.csproj.GenerateResource.cache
+C:\Users\Casa\Documents\TUP\LabII\tp\PyCINE-01\PyCINE-01\obj\Debug\PyCINE-01.csproj.CoreCompileInputs.cache
+C:\Users\Casa\Documents\TUP\LabII\tp\PyCINE-01\PyCINE-01\obj\Debug\PyCINE-01.exe
+C:\Users\Casa\Documents\TUP\LabII\tp\PyCINE-01\PyCINE-01\obj\Debug\PyCINE-01.pdb
+C:\Users\Casa\Documents\TUP\LabII\tp\PyCINE-01\PyCINE-01\obj\Debug\PyCINE_01.Forms.NuevaPelicula.resources
+C:\Users\Casa\Documents\TUP\LabII\tp\PyCINE-01\PyCINE-01\obj\Debug\PyCINE_01.Forms.NuevoCliente.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-01\PyCINE-01\bin\Debug\PyCINE-01.exe.config
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-01\PyCINE-01\bin\Debug\PyCINE-01.exe
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-01\PyCINE-01\bin\Debug\PyCINE-01.pdb
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-01\PyCINE-01\obj\Debug\PyCINE-01.csproj.AssemblyReference.cache
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-01\PyCINE-01\obj\Debug\PyCINE-01.csproj.SuggestedBindingRedirects.cache
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-01\PyCINE-01\obj\Debug\PyCINE_01.FormPrincipal.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-01\PyCINE-01\obj\Debug\PyCINE_01.Forms.NuevaPelicula.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-01\PyCINE-01\obj\Debug\PyCINE_01.Forms.NuevoCliente.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-01\PyCINE-01\obj\Debug\PyCINE_01.Properties.Resources.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-01\PyCINE-01\obj\Debug\PyCINE-01.csproj.GenerateResource.cache
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-01\PyCINE-01\obj\Debug\PyCINE-01.csproj.CoreCompileInputs.cache
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-01\PyCINE-01\obj\Debug\PyCINE-01.exe
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-01\PyCINE-01\obj\Debug\PyCINE-01.pdb
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-01\PyCINE-01\obj\Debug\PyCINE_01.Forms.FormPelicula.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-01\PyCINE-01\obj\Debug\PyCINE_01.Forms.FormClientes.resources
+C:\Users\leo-8\Desktop\TUP\SEGUNDO SEMESTRE\PyCINE-01\bin\Debug\PyCINE-01.exe.config
+C:\Users\leo-8\Desktop\TUP\SEGUNDO SEMESTRE\PyCINE-01\bin\Debug\PyCINE-01.exe
+C:\Users\leo-8\Desktop\TUP\SEGUNDO SEMESTRE\PyCINE-01\bin\Debug\PyCINE-01.pdb
+C:\Users\leo-8\Desktop\TUP\SEGUNDO SEMESTRE\PyCINE-01\obj\Debug\PyCINE-01.csproj.AssemblyReference.cache
+C:\Users\leo-8\Desktop\TUP\SEGUNDO SEMESTRE\PyCINE-01\obj\Debug\PyCINE-01.csproj.SuggestedBindingRedirects.cache
+C:\Users\leo-8\Desktop\TUP\SEGUNDO SEMESTRE\PyCINE-01\obj\Debug\PyCINE_01.Forms.FormClientes.resources
+C:\Users\leo-8\Desktop\TUP\SEGUNDO SEMESTRE\PyCINE-01\obj\Debug\PyCINE_01.FormPrincipal.resources
+C:\Users\leo-8\Desktop\TUP\SEGUNDO SEMESTRE\PyCINE-01\obj\Debug\PyCINE_01.Forms.NuevaPelicula.resources
+C:\Users\leo-8\Desktop\TUP\SEGUNDO SEMESTRE\PyCINE-01\obj\Debug\PyCINE_01.Forms.NuevoCliente.resources
+C:\Users\leo-8\Desktop\TUP\SEGUNDO SEMESTRE\PyCINE-01\obj\Debug\PyCINE_01.Forms.FormPelicula.resources
+C:\Users\leo-8\Desktop\TUP\SEGUNDO SEMESTRE\PyCINE-01\obj\Debug\PyCINE_01.Properties.Resources.resources
+C:\Users\leo-8\Desktop\TUP\SEGUNDO SEMESTRE\PyCINE-01\obj\Debug\PyCINE-01.csproj.GenerateResource.cache
+C:\Users\leo-8\Desktop\TUP\SEGUNDO SEMESTRE\PyCINE-01\obj\Debug\PyCINE-01.csproj.CoreCompileInputs.cache
+C:\Users\leo-8\Desktop\TUP\SEGUNDO SEMESTRE\PyCINE-01\obj\Debug\PyCINE-01.exe
+C:\Users\leo-8\Desktop\TUP\SEGUNDO SEMESTRE\PyCINE-01\obj\Debug\PyCINE-01.pdb
+C:\Users\leo-8\Desktop\TUP\SEGUNDO SEMESTRE\PyCINE-01\obj\Debug\PyCINE_01.Forms.NuevaReserva.resources
+C:\Users\leo-8\Desktop\TUP\SEGUNDO SEMESTRE\PyCINE-01\obj\Debug\PyCINE_01.Forms.FormReservas.resources
+C:\Users\leo-8\Desktop\TUP\SEGUNDO SEMESTRE\PyCINE-01\obj\Debug\PyCINE_01.Forms.FormFunciones.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-02\PyCINE-01\bin\Debug\PyCINE-01.exe.config
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-02\PyCINE-01\bin\Debug\PyCINE-01.exe
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-02\PyCINE-01\bin\Debug\PyCINE-01.pdb
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-02\PyCINE-01\obj\Debug\PyCINE-01.csproj.AssemblyReference.cache
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-02\PyCINE-01\obj\Debug\PyCINE-01.csproj.SuggestedBindingRedirects.cache
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-02\PyCINE-01\obj\Debug\PyCINE_01.Forms.FormClientes.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-02\PyCINE-01\obj\Debug\PyCINE_01.Forms.FormFunciones.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-02\PyCINE-01\obj\Debug\PyCINE_01.FormPrincipal.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-02\PyCINE-01\obj\Debug\PyCINE_01.Forms.NuevaPelicula.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-02\PyCINE-01\obj\Debug\PyCINE_01.Forms.NuevaReserva.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-02\PyCINE-01\obj\Debug\PyCINE_01.Forms.NuevoCliente.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-02\PyCINE-01\obj\Debug\PyCINE_01.Forms.FormPelicula.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-02\PyCINE-01\obj\Debug\PyCINE_01.Forms.FormReservas.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-02\PyCINE-01\obj\Debug\PyCINE_01.Properties.Resources.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-02\PyCINE-01\obj\Debug\PyCINE-01.csproj.GenerateResource.cache
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-02\PyCINE-01\obj\Debug\PyCINE-01.csproj.CoreCompileInputs.cache
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-02\PyCINE-01\obj\Debug\PyCINE-01.exe
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-02\PyCINE-01\obj\Debug\PyCINE-01.pdb
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE-NUEVO-LEO\PyCINE-02\PyCINE-01\obj\Debug\PyCINE-01.csproj.AssemblyReference.cache
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE-NUEVO-LEO\PyCINE-02\PyCINE-01\obj\Debug\PyCINE-01.csproj.SuggestedBindingRedirects.cache
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE-NUEVO-LEO\PyCINE-02\PyCINE-01\obj\Debug\PyCINE_01.Forms.FormClientes.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE-NUEVO-LEO\PyCINE-02\PyCINE-01\obj\Debug\PyCINE_01.Forms.FormFunciones.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE-NUEVO-LEO\PyCINE-02\PyCINE-01\obj\Debug\PyCINE_01.FormPrincipal.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE-NUEVO-LEO\PyCINE-02\PyCINE-01\obj\Debug\PyCINE_01.Forms.NuevaPelicula.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE-NUEVO-LEO\PyCINE-02\PyCINE-01\obj\Debug\PyCINE_01.Forms.NuevaReserva.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE-NUEVO-LEO\PyCINE-02\PyCINE-01\obj\Debug\PyCINE_01.Forms.NuevoCliente.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE-NUEVO-LEO\PyCINE-02\PyCINE-01\obj\Debug\PyCINE_01.Forms.FormPelicula.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE-NUEVO-LEO\PyCINE-02\PyCINE-01\obj\Debug\PyCINE_01.Forms.FormReservas.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE-NUEVO-LEO\PyCINE-02\PyCINE-01\obj\Debug\PyCINE_01.Properties.Resources.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE-NUEVO-LEO\PyCINE-02\PyCINE-01\obj\Debug\PyCINE-01.csproj.GenerateResource.cache
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE-NUEVO-LEO\PyCINE-02\PyCINE-01\obj\Debug\PyCINE-01.csproj.CoreCompileInputs.cache
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE-NUEVO-LEO\PyCINE-02\PyCINE-01\obj\Debug\PyCINE-01.exe
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE-NUEVO-LEO\PyCINE-02\PyCINE-01\obj\Debug\PyCINE-01.pdb
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE-NUEVO-LEO\PyCINE-02\PyCINE-01\bin\Debug\PyCINE-01.exe.config
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE-NUEVO-LEO\PyCINE-02\PyCINE-01\bin\Debug\PyCINE-01.exe
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE-NUEVO-LEO\PyCINE-02\PyCINE-01\bin\Debug\PyCINE-01.pdb
+C:\Users\Casa\Documents\TUP\LabII\tp\PyCINE-01\PyCINE-01\obj\Debug\PyCINE_01.Forms.FormClientes.resources
+C:\Users\Casa\Documents\TUP\LabII\tp\PyCINE-01\PyCINE-01\obj\Debug\PyCINE_01.Forms.FormFunciones.resources
+C:\Users\Casa\Documents\TUP\LabII\tp\PyCINE-01\PyCINE-01\obj\Debug\PyCINE_01.Forms.NuevaReserva.resources
+C:\Users\Casa\Documents\TUP\LabII\tp\PyCINE-01\PyCINE-01\obj\Debug\PyCINE_01.Forms.FormPelicula.resources
+C:\Users\Casa\Documents\TUP\LabII\tp\PyCINE-01\PyCINE-01\obj\Debug\PyCINE_01.Forms.FormReservas.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\PyCINE-01.exe.config
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\PyCINE-01.exe
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\PyCINE-01.pdb
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\obj\Debug\PyCINE-01.csproj.AssemblyReference.cache
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\obj\Debug\PyCINE-01.csproj.SuggestedBindingRedirects.cache
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\obj\Debug\PyCINE_01.Forms.FormClientes.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\obj\Debug\PyCINE_01.Forms.FormFunciones.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\obj\Debug\PyCINE_01.FormPrincipal.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\obj\Debug\PyCINE_01.Forms.NuevaPelicula.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\obj\Debug\PyCINE_01.Forms.NuevaReserva.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\obj\Debug\PyCINE_01.Forms.NuevoCliente.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\obj\Debug\PyCINE_01.Forms.FormPelicula.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\obj\Debug\PyCINE_01.Forms.FormReservas.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\obj\Debug\PyCINE_01.Properties.Resources.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\obj\Debug\PyCINE-01.csproj.GenerateResource.cache
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\obj\Debug\PyCINE-01.csproj.CoreCompileInputs.cache
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\obj\Debug\PyCINE-01.exe
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\obj\Debug\PyCINE-01.pdb
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\EnvDTE.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\stdole.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\obj\Debug\PyCINE_01.Reportes.FormReporte.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\2-LABORATORIO\TPI-GRUPO\CINE_Versiones\PyCINE-05\PyCINE-01\PyCINE-01\obj\Debug\PyCINE-01.csproj.CopyComplete
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\PyCINE-01.exe.config
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\PyCINE-01.exe
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\PyCINE-01.pdb
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\EnvDTE.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\stdole.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\obj\Debug\PyCINE-01.csproj.AssemblyReference.cache
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\obj\Debug\PyCINE-01.csproj.SuggestedBindingRedirects.cache
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\obj\Debug\PyCINE_01.Forms.FormClientes.resources
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\obj\Debug\PyCINE_01.Forms.FormFunciones.resources
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\obj\Debug\PyCINE_01.FormPrincipal.resources
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\obj\Debug\PyCINE_01.Forms.NuevaPelicula.resources
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\obj\Debug\PyCINE_01.Forms.NuevaReserva.resources
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\obj\Debug\PyCINE_01.Forms.NuevoCliente.resources
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\obj\Debug\PyCINE_01.Forms.FormPelicula.resources
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\obj\Debug\PyCINE_01.Forms.FormReservas.resources
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\obj\Debug\PyCINE_01.Properties.Resources.resources
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\obj\Debug\PyCINE_01.Reportes.FormReporte.resources
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\obj\Debug\PyCINE-01.csproj.GenerateResource.cache
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\obj\Debug\PyCINE-01.csproj.CoreCompileInputs.cache
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\obj\Debug\PyCINE-01.csproj.CopyComplete
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\obj\Debug\PyCINE-01.exe
+C:\Users\Casa\Documents\TUP\LabII\06\PyCINE-01\PyCINE-01\obj\Debug\PyCINE-01.pdb
