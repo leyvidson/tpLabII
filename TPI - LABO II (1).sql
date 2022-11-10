@@ -991,15 +991,68 @@ ON f.id_pelicula = p.id_pelicula
 JOIN lenguajes l ON f.id_lenguaje = l.id_lenguaje
 JOIN salas s ON s.id_sala = f.id_sala
 
-titulo
-cbocalific
-duracion
-chekB subtitulo
-estreno fecha
-chekB apto
-cboActor
-CboOrigen
-Sinopsis
-CboGenero
+CREATE proc sp_peli_prom_mes_actual_mayor_mes_anterior
+AS
+SELECT MONTH(t.fecha) FECHA, 
+       p.titulo PELICULA
+FROM peliculas p	
+JOIN funciones f 
+ON p.id_pelicula = f.id_pelicula 
+JOIN tickets t ON p.id_pelicula = t.id_pelicula			
+WHERE MONTH(t.fecha) = MONTH(GETDATE()) AND YEAR(t.fecha) = YEAR(GETDATE())
+GROUP BY MONTH(t.fecha), p.titulo
+HAVING AVG(f.precio) > (SELECT AVG(precio)
+						FROM peliculas p1 JOIN funciones f1 
+						ON p1.id_pelicula = f1.id_pelicula 
+						JOIN tickets t1 ON p1.id_pelicula = t1.id_pelicula						
+						WHERE DATEDIFF(MONTH, t1.fecha, GETDATE())=1)
 
-proc 
+						exec sp_peli_prom_mes_actual_mayor_mes_anterior
+-----------------------------------------------
+insert into reservas(id_funcion,id_cliente,id_pelicula,fecha,cantidad) values (3,6,6,'2022-10-17',7)
+insert into reservas(id_funcion,id_cliente,id_pelicula,fecha,cantidad) values (4,7,7,'2022-11-09',5)
+insert into reservas(id_funcion,id_cliente,id_pelicula,fecha,cantidad) values (4,8,6,'2022-11-01',6)
+insert into reservas(id_funcion,id_cliente,id_pelicula,fecha,cantidad) values (5,9,6,'2022-11-02',4)
+insert into reservas(id_funcion,id_cliente,id_pelicula,fecha,cantidad) values (5,10,7,'2022-10-15',12)
+insert into reservas(id_funcion,id_cliente,id_pelicula,fecha,cantidad) values (6,11,7,'2022-11-04',5)
+insert into tickets(id_reserva,id_pelicula, id_forma_de_pago, fecha) values (13,6,1,'2022-11-05')
+insert into tickets(id_reserva,id_pelicula, id_forma_de_pago, fecha) values (14,6,1,'2022-11-04')
+insert into tickets(id_reserva,id_pelicula, id_forma_de_pago, fecha) values (13,6,1,'2022-10-05')
+insert into tickets(id_reserva,id_pelicula, id_forma_de_pago, fecha) values (14,7,1,'2022-11-05')
+insert into tickets(id_reserva,id_pelicula, id_forma_de_pago, fecha) values (15,7,1,'2022-11-01')
+insert into tickets(id_reserva,id_pelicula, id_forma_de_pago, fecha) values (16,7,1,'2022-10-05')
+
+------------------------------------------------
+
+
+
+CREATE proc sp_cli_mas_dos_veces_anio_actual
+AS
+SELECT c.nombre +' '+ c.apellido CLIENTE,
+       MONTH(t.fecha)FECHA,
+	   p.titulo PELICULA
+FROM tickets t JOIN peliculas p 
+ON t.id_pelicula = p.id_pelicula
+JOIN reservas r ON t.id_reserva = r.id_reserva
+JOIN clientes c ON r.id_cliente = c.id_cliente
+JOIN formas_de_pago fp ON t.id_forma_de_pago = fp.id_forma_de_pago
+WHERE YEAR(t.fecha) = YEAR(GETDATE()) 
+GROUP BY c.nombre +' '+ c.apellido, MONTH(t.fecha),p.titulo,fp.tipo
+HAVING COUNT(t.id_ticket) > 1
+
+CREATE proc sp_ingresos_mensuales_mayor_anio_pasado
+AS
+SELECT MONTH(t.fecha) 'Mes fecha', 
+       SUM(precio) Total, 
+	   AVG(precio) Promedio
+FROM tickets t JOIN reservas r 
+ON r.id_reserva = t.id_reserva 
+JOIN funciones f ON f.id_funcion = r.id_funcion
+WHERE DATEDIFF(YEAR, t.fecha, GETDATE())=0
+GROUP BY MONTH(t.fecha)
+HAVING AVG(precio) > (SELECT AVG(precio) 
+                      FROM tickets
+					  WHERE DATEDIFF(YEAR, fecha, GETDATE())=1
+					  GROUP BY MONTH(fecha))
+ 
+ exec sp_ingresos_mensuales_mayor_anio_pasado 
