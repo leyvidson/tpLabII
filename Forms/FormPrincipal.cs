@@ -187,7 +187,7 @@ namespace PyCINE_01
         {
             if (MenuLeft.Width == 250)
             {
-                MenuLeft.Width = 80;
+                MenuLeft.Width = 58;
             }
             else MenuLeft.Width = 250;
         }
@@ -196,6 +196,8 @@ namespace PyCINE_01
         {
             DisableButton();
             leftBorderBtn.Visible = false;
+            Application.Restart();
+            Application.Exit();
         }
 
         private void iconButtonConsultas_Click(object sender, EventArgs e)

@@ -83,10 +83,10 @@
             this.iconButtonConsultas.IconColor = System.Drawing.Color.White;
             this.iconButtonConsultas.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.iconButtonConsultas.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.iconButtonConsultas.Location = new System.Drawing.Point(-6, 452);
+            this.iconButtonConsultas.Location = new System.Drawing.Point(0, 452);
             this.iconButtonConsultas.Name = "iconButtonConsultas";
             this.iconButtonConsultas.Padding = new System.Windows.Forms.Padding(10, 0, 20, 0);
-            this.iconButtonConsultas.Size = new System.Drawing.Size(250, 46);
+            this.iconButtonConsultas.Size = new System.Drawing.Size(244, 46);
             this.iconButtonConsultas.TabIndex = 11;
             this.iconButtonConsultas.Text = "Consultas";
             this.iconButtonConsultas.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;

@@ -31,8 +31,6 @@
             this.panelContenedorReservas = new System.Windows.Forms.Panel();
             this.lbl_cerrar = new System.Windows.Forms.Label();
             this.dgvReserva = new System.Windows.Forms.DataGridView();
-            this.lblReservas = new System.Windows.Forms.Label();
-            this.btnNueva = new System.Windows.Forms.Button();
             this.id = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.id_funcion = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.id_cliente = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -40,6 +38,8 @@
             this.fecha = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.cantidad = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.btnImprimir = new System.Windows.Forms.DataGridViewButtonColumn();
+            this.lblReservas = new System.Windows.Forms.Label();
+            this.btnNueva = new System.Windows.Forms.Button();
             this.panelContenedorReservas.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvReserva)).BeginInit();
             this.SuspendLayout();
@@ -52,14 +52,14 @@
             this.panelContenedorReservas.Controls.Add(this.btnNueva);
             this.panelContenedorReservas.Location = new System.Drawing.Point(3, 1);
             this.panelContenedorReservas.Name = "panelContenedorReservas";
-            this.panelContenedorReservas.Size = new System.Drawing.Size(802, 421);
+            this.panelContenedorReservas.Size = new System.Drawing.Size(823, 422);
             this.panelContenedorReservas.TabIndex = 0;
             // 
             // lbl_cerrar
             // 
             this.lbl_cerrar.AutoSize = true;
             this.lbl_cerrar.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_cerrar.Location = new System.Drawing.Point(771, 0);
+            this.lbl_cerrar.Location = new System.Drawing.Point(798, 0);
             this.lbl_cerrar.Name = "lbl_cerrar";
             this.lbl_cerrar.Size = new System.Drawing.Size(22, 22);
             this.lbl_cerrar.TabIndex = 5;
@@ -79,37 +79,9 @@
             this.btnImprimir});
             this.dgvReserva.Location = new System.Drawing.Point(0, 59);
             this.dgvReserva.Name = "dgvReserva";
-            this.dgvReserva.Size = new System.Drawing.Size(793, 302);
+            this.dgvReserva.Size = new System.Drawing.Size(820, 298);
             this.dgvReserva.TabIndex = 4;
             this.dgvReserva.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvReserva_CellContentClick);
-            // 
-            // lblReservas
-            // 
-            this.lblReservas.AutoSize = true;
-            this.lblReservas.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblReservas.Location = new System.Drawing.Point(278, 8);
-            this.lblReservas.Name = "lblReservas";
-            this.lblReservas.Size = new System.Drawing.Size(86, 22);
-            this.lblReservas.TabIndex = 3;
-            this.lblReservas.Text = "Reservas";
-            // 
-            // btnNueva
-            // 
-            this.btnNueva.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnNueva.FlatAppearance.BorderSize = 0;
-            this.btnNueva.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.btnNueva.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnNueva.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnNueva.ForeColor = System.Drawing.Color.Black;
-            this.btnNueva.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnNueva.Location = new System.Drawing.Point(0, 363);
-            this.btnNueva.Name = "btnNueva";
-            this.btnNueva.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.btnNueva.Size = new System.Drawing.Size(132, 55);
-            this.btnNueva.TabIndex = 2;
-            this.btnNueva.Text = "Nueva   ";
-            this.btnNueva.UseVisualStyleBackColor = true;
-            this.btnNueva.Click += new System.EventHandler(this.btnNueva_Click);
             // 
             // id
             // 
@@ -155,6 +127,34 @@
             this.btnImprimir.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
             this.btnImprimir.Text = "Imprimir";
             this.btnImprimir.UseColumnTextForButtonValue = true;
+            // 
+            // lblReservas
+            // 
+            this.lblReservas.AutoSize = true;
+            this.lblReservas.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblReservas.Location = new System.Drawing.Point(278, 8);
+            this.lblReservas.Name = "lblReservas";
+            this.lblReservas.Size = new System.Drawing.Size(86, 22);
+            this.lblReservas.TabIndex = 3;
+            this.lblReservas.Text = "Reservas";
+            // 
+            // btnNueva
+            // 
+            this.btnNueva.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnNueva.FlatAppearance.BorderSize = 0;
+            this.btnNueva.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btnNueva.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnNueva.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnNueva.ForeColor = System.Drawing.Color.Black;
+            this.btnNueva.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnNueva.Location = new System.Drawing.Point(0, 363);
+            this.btnNueva.Name = "btnNueva";
+            this.btnNueva.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.btnNueva.Size = new System.Drawing.Size(132, 55);
+            this.btnNueva.TabIndex = 2;
+            this.btnNueva.Text = "Nueva   ";
+            this.btnNueva.UseVisualStyleBackColor = true;
+            this.btnNueva.Click += new System.EventHandler(this.btnNueva_Click);
             // 
             // FormReservas
             // 
