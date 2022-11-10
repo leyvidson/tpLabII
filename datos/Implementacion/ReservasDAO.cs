@@ -32,5 +32,9 @@ namespace PyCINE_01.datos
         {
             return HelperSingleton.ObtenerInstancia().EjecutarInsert(cliente);
         }
+        public DataTable ConsultaDBVista(string vista)
+        {
+            return HelperSingleton.ObtenerInstancia().ConsultarDBVista(vista);
+        }
     }
 }

@@ -15,6 +15,8 @@ namespace PyCINE_01.servicios.Interfaz
         bool EjecutarInsert(Cliente cliente);
         bool EjecutarInsert(Reserva reserva);
         bool EjecutarInsert(object objeto); //Intentando refactorizar (PRUEBA)
-        
+        DataTable ConsultaDBVista(string vista);
+
+
     }
 }

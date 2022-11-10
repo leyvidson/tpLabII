@@ -107,6 +107,10 @@ namespace PyCINE_01.Forms
 
         private void btnNuevaPeli_Click(object sender, EventArgs e)
         {
+            CerrarLbl.Visible = false;
+            lblPelicula.Visible = false;
+            dgvPeliculas.Dispose();
+            btnNueva.Visible = false;
             AbrirFormInPanel(new NuevaPelicula());
         }
 

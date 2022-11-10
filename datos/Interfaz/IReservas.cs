@@ -9,6 +9,8 @@ namespace PyCINE_01.datos
         DataTable ConsultarDB(string SP);
         bool EjecutarInsert(Cliente cliente);
         bool EjecutarInsert(Pelicula pelicula);
-      
+        DataTable ConsultaDBVista(string vista);
+
+
     }
 }

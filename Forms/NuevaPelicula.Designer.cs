@@ -79,7 +79,7 @@
             this.panel1.Controls.Add(this.label1);
             this.panel1.Location = new System.Drawing.Point(21, 12);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(643, 357);
+            this.panel1.Size = new System.Drawing.Size(643, 368);
             this.panel1.TabIndex = 0;
             // 
             // label11
@@ -269,7 +269,7 @@
             this.btnGuardarPelicula.FlatAppearance.BorderSize = 0;
             this.btnGuardarPelicula.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.btnGuardarPelicula.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnGuardarPelicula.Location = new System.Drawing.Point(21, 397);
+            this.btnGuardarPelicula.Location = new System.Drawing.Point(25, 386);
             this.btnGuardarPelicula.Name = "btnGuardarPelicula";
             this.btnGuardarPelicula.Size = new System.Drawing.Size(126, 42);
             this.btnGuardarPelicula.TabIndex = 23;

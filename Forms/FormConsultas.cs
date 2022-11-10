@@ -1,4 +1,6 @@
-﻿using System;
+﻿using PyCINE_01.servicios.Interfaz;
+using PyCINE_01.servicios;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,14 +14,48 @@ namespace PyCINE_01.Forms
 {
     public partial class FormConsultas : Form
     {
+        private IServicio oServicio;
+        private FabricaServicio oFabrica;
         public FormConsultas()
         {
-            InitializeComponent();
+            InitializeComponent();            
+            oFabrica = new FabricaServicioImp();    //Agregado nuevo
+            oServicio = oFabrica.CrearServicio();
+            lblEnunciado.Text = string.Empty;
         }
+
+        
+
 
         private void lblCerrarConsultas_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void cmbConsultas_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (cmbConsultas.Text.Equals("Consulta 1"))
+            {
+                lblEnunciado.Text = "Se muestra la pelicula cuyo promedio actual de recaudacion es mayor a la del mes anterior";
+                dgvConsultas.DataSource = oServicio.ConsultarDB("sp_peli_prom_mes_actual_mayor_mes_anterior");
+            }
+            if (cmbConsultas.Text.Equals("Consulta 2"))
+            {
+                lblEnunciado.Text = "Se muestra el Cliente que asistio mas de dos veces este año";
+                dgvConsultas.DataSource = oServicio.ConsultarDB("sp_cli_mas_dos_veces_anio_actual");
+            }
+            if (cmbConsultas.Text.Equals("Consulta 3"))
+            {
+                lblEnunciado.Text = "Muestra datos si el ingreso del año en curso es mayor al ingreso del año pasado ";
+                dgvConsultas.DataSource = oServicio.ConsultarDB("sp_ingresos_mensuales_mayor_anio_pasado");
+            }
+
+
+        }
+
+        private void panelContenedorConsultas_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }

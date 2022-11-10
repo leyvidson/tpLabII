@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.label1 = new System.Windows.Forms.Label();
+            this.lblPelicula = new System.Windows.Forms.Label();
             this.btnNueva = new System.Windows.Forms.Button();
             this.lblCerrar = new System.Windows.Forms.Label();
             this.dgvPeliculas = new System.Windows.Forms.DataGridView();
@@ -46,15 +46,15 @@
             this.panelContenedorPeliculas.SuspendLayout();
             this.SuspendLayout();
             // 
-            // label1
+            // lblPelicula
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(282, 21);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(82, 22);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Peliculas";
+            this.lblPelicula.AutoSize = true;
+            this.lblPelicula.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPelicula.Location = new System.Drawing.Point(282, 21);
+            this.lblPelicula.Name = "lblPelicula";
+            this.lblPelicula.Size = new System.Drawing.Size(82, 22);
+            this.lblPelicula.TabIndex = 0;
+            this.lblPelicula.Text = "Peliculas";
             // 
             // btnNueva
             // 
@@ -72,7 +72,7 @@
             this.btnNueva.TabIndex = 1;
             this.btnNueva.Text = "Nueva   ";
             this.btnNueva.UseVisualStyleBackColor = true;
-            this.btnNueva.Click += new System.EventHandler(this.btnNueva_Click);
+            this.btnNueva.Click += new System.EventHandler(this.btnNuevaPeli_Click);
             // 
             // lblCerrar
             // 
@@ -158,7 +158,7 @@
             this.panelContenedorPeliculas.Controls.Add(this.CerrarLbl);
             this.panelContenedorPeliculas.Controls.Add(this.dgvPeliculas);
             this.panelContenedorPeliculas.Controls.Add(this.btnNueva);
-            this.panelContenedorPeliculas.Controls.Add(this.label1);
+            this.panelContenedorPeliculas.Controls.Add(this.lblPelicula);
             this.panelContenedorPeliculas.Location = new System.Drawing.Point(2, 0);
             this.panelContenedorPeliculas.Name = "panelContenedorPeliculas";
             this.panelContenedorPeliculas.Size = new System.Drawing.Size(716, 421);
@@ -197,7 +197,7 @@
 
         #endregion
 
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label lblPelicula;
         private System.Windows.Forms.Button btnNueva;
         private System.Windows.Forms.Label lblCerrar;
         private System.Windows.Forms.DataGridView dgvPeliculas;

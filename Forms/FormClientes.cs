@@ -73,10 +73,11 @@ namespace PyCINE_01.Forms
         }
         private void btnNuevoCliente_Click(object sender, EventArgs e)
         {
-            AbrirFormInPanel(new NuevoCliente());
+            lblCerrarClientes.Visible = false;
             lblClientes.Visible = false;
-            lblCerrarClientes.Visible=false;
             dgvClientes.Dispose();
+            btnNuevoCliente.Visible = false;
+            AbrirFormInPanel(new NuevoCliente());
         }
     }
 }

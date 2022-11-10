@@ -19,6 +19,11 @@ namespace PyCINE_01.servicios.Implementaciones
             oDao = new ReservasDAO();
         }
 
+        public DataTable ConsultaDBVista(string vista)
+        {
+            return oDao.ConsultaDBVista(vista);
+        }
+
         public DataTable ConsultarDB(string SP)
         {
             return oDao.ConsultarDB(SP);

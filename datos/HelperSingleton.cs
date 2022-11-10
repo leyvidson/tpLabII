@@ -2,6 +2,7 @@
 using System.Data.SqlClient;
 using System.Data;
 using PyCINE_01.Entidades;
+using System.Windows.Forms;
 
 namespace PyCINE_01.datos
 {
@@ -43,6 +44,27 @@ namespace PyCINE_01.datos
             }
                
         }
+
+        public DataTable ConsultarDBVista(string vista)//ejecutar vista
+        {
+            try
+            {
+                DataTable tabla = new DataTable();
+                SqlCommand cmd = new SqlCommand();
+                cnn.Open();
+                cmd.Connection = cnn;
+                cmd.CommandType = CommandType.Text;
+                cmd.CommandText = vista;
+                tabla.Load(cmd.ExecuteReader());
+                cnn.Close();
+                return tabla;
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+        }
+
 
         public bool EjecutarInsert(Cliente cliente)
         {
@@ -133,6 +155,7 @@ namespace PyCINE_01.datos
             {   
 
                 SqlCommand Cmd = new SqlCommand("SP_NUEVA_PELICULA", cnn);
+                cnn.Open();
                 Cmd.CommandType = CommandType.StoredProcedure;
                 Cmd.Parameters.AddWithValue("@id_genero", pelicula.Genero.Id_genero);
                 Cmd.Parameters.AddWithValue("@id_calificacion", pelicula.Calificacion.Id_calificacion);

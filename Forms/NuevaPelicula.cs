@@ -76,7 +76,7 @@ namespace PyCINE_01.Forms
                 Genero gen = new Genero(IdGen, DescGen);                       //Instanciamos Genero
 
                 string ti = txtTitulo.Text;
-                decimal du = Convert.ToDecimal(txtDuracion.Text);
+                decimal du = 123.5M;
                 DateTime fe = dtpEstreno.Value;
 
                 bool sub = cbSubtitulos.Checked;
