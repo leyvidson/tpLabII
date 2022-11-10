@@ -37,6 +37,10 @@
             this.iconButtonClientes = new FontAwesome.Sharp.IconButton();
             this.iconButtonPeliculas = new FontAwesome.Sharp.IconButton();
             this.MenuVertical = new System.Windows.Forms.Panel();
+            this.iconButtonRestaurar = new FontAwesome.Sharp.IconButton();
+            this.iconButtonCerrar = new FontAwesome.Sharp.IconButton();
+            this.iconButtonMinimizar = new FontAwesome.Sharp.IconButton();
+            this.iconButtonMaximizar = new FontAwesome.Sharp.IconButton();
             this.iconButtonMenu = new FontAwesome.Sharp.IconButton();
             this.btnRestaurar = new System.Windows.Forms.PictureBox();
             this.btnMinimizar = new System.Windows.Forms.PictureBox();
@@ -198,6 +202,10 @@
             // MenuVertical
             // 
             this.MenuVertical.BackColor = System.Drawing.Color.Transparent;
+            this.MenuVertical.Controls.Add(this.iconButtonRestaurar);
+            this.MenuVertical.Controls.Add(this.iconButtonCerrar);
+            this.MenuVertical.Controls.Add(this.iconButtonMinimizar);
+            this.MenuVertical.Controls.Add(this.iconButtonMaximizar);
             this.MenuVertical.Controls.Add(this.iconButtonMenu);
             this.MenuVertical.Controls.Add(this.btnRestaurar);
             this.MenuVertical.Controls.Add(this.btnMinimizar);
@@ -210,6 +218,85 @@
             this.MenuVertical.TabIndex = 1;
             this.MenuVertical.Paint += new System.Windows.Forms.PaintEventHandler(this.panel2_Paint);
             this.MenuVertical.MouseDown += new System.Windows.Forms.MouseEventHandler(this.MenuVertical_MouseDown);
+            // 
+            // iconButtonRestaurar
+            // 
+            this.iconButtonRestaurar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.iconButtonRestaurar.FlatAppearance.BorderSize = 0;
+            this.iconButtonRestaurar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.iconButtonRestaurar.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.iconButtonRestaurar.IconChar = FontAwesome.Sharp.IconChar.WindowRestore;
+            this.iconButtonRestaurar.IconColor = System.Drawing.Color.Black;
+            this.iconButtonRestaurar.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconButtonRestaurar.IconSize = 20;
+            this.iconButtonRestaurar.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.iconButtonRestaurar.Location = new System.Drawing.Point(724, 0);
+            this.iconButtonRestaurar.Name = "iconButtonRestaurar";
+            this.iconButtonRestaurar.Size = new System.Drawing.Size(32, 36);
+            this.iconButtonRestaurar.TabIndex = 14;
+            this.iconButtonRestaurar.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.iconButtonRestaurar.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.iconButtonRestaurar.UseVisualStyleBackColor = true;
+            this.iconButtonRestaurar.Click += new System.EventHandler(this.iconButtonRestaurar_Click);
+            // 
+            // iconButtonCerrar
+            // 
+            this.iconButtonCerrar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.iconButtonCerrar.FlatAppearance.BorderSize = 0;
+            this.iconButtonCerrar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.iconButtonCerrar.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.iconButtonCerrar.IconChar = FontAwesome.Sharp.IconChar.Multiply;
+            this.iconButtonCerrar.IconColor = System.Drawing.Color.Black;
+            this.iconButtonCerrar.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconButtonCerrar.IconSize = 20;
+            this.iconButtonCerrar.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.iconButtonCerrar.Location = new System.Drawing.Point(753, 0);
+            this.iconButtonCerrar.Name = "iconButtonCerrar";
+            this.iconButtonCerrar.Size = new System.Drawing.Size(32, 36);
+            this.iconButtonCerrar.TabIndex = 13;
+            this.iconButtonCerrar.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.iconButtonCerrar.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.iconButtonCerrar.UseVisualStyleBackColor = true;
+            this.iconButtonCerrar.Click += new System.EventHandler(this.iconButtonCerrar_Click);
+            // 
+            // iconButtonMinimizar
+            // 
+            this.iconButtonMinimizar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.iconButtonMinimizar.FlatAppearance.BorderSize = 0;
+            this.iconButtonMinimizar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.iconButtonMinimizar.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.iconButtonMinimizar.IconChar = FontAwesome.Sharp.IconChar.Minus;
+            this.iconButtonMinimizar.IconColor = System.Drawing.Color.Black;
+            this.iconButtonMinimizar.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconButtonMinimizar.IconSize = 20;
+            this.iconButtonMinimizar.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.iconButtonMinimizar.Location = new System.Drawing.Point(695, 0);
+            this.iconButtonMinimizar.Name = "iconButtonMinimizar";
+            this.iconButtonMinimizar.Size = new System.Drawing.Size(32, 36);
+            this.iconButtonMinimizar.TabIndex = 12;
+            this.iconButtonMinimizar.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.iconButtonMinimizar.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.iconButtonMinimizar.UseVisualStyleBackColor = true;
+            // 
+            // iconButtonMaximizar
+            // 
+            this.iconButtonMaximizar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.iconButtonMaximizar.FlatAppearance.BorderSize = 0;
+            this.iconButtonMaximizar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.iconButtonMaximizar.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.iconButtonMaximizar.IconChar = FontAwesome.Sharp.IconChar.WindowMaximize;
+            this.iconButtonMaximizar.IconColor = System.Drawing.Color.Black;
+            this.iconButtonMaximizar.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconButtonMaximizar.IconSize = 20;
+            this.iconButtonMaximizar.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.iconButtonMaximizar.Location = new System.Drawing.Point(724, 0);
+            this.iconButtonMaximizar.Name = "iconButtonMaximizar";
+            this.iconButtonMaximizar.Size = new System.Drawing.Size(32, 36);
+            this.iconButtonMaximizar.TabIndex = 11;
+            this.iconButtonMaximizar.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.iconButtonMaximizar.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.iconButtonMaximizar.UseVisualStyleBackColor = true;
+            this.iconButtonMaximizar.Click += new System.EventHandler(this.iconButtonMaximizar_Click);
             // 
             // iconButtonMenu
             // 
@@ -337,6 +424,10 @@
         private FontAwesome.Sharp.IconButton iconButtonMenu;
         private FontAwesome.Sharp.IconButton iconButtonInicio;
         private FontAwesome.Sharp.IconButton iconButtonConsultas;
+        private FontAwesome.Sharp.IconButton iconButtonRestaurar;
+        private FontAwesome.Sharp.IconButton iconButtonCerrar;
+        private FontAwesome.Sharp.IconButton iconButtonMinimizar;
+        private FontAwesome.Sharp.IconButton iconButtonMaximizar;
     }
 }
 

@@ -203,5 +203,30 @@ namespace PyCINE_01
             ActivateButton(sender, RGBColors.color5);
             //AbrirFormInPanel(new FormFunciones());
         }
+
+        private void iconButtonCerrar_Click(object sender, EventArgs e)
+        {
+            if (MessageBox.Show("Esta seguro que quiere dejar la App?"
+               , "SALIENDO", MessageBoxButtons.YesNo, MessageBoxIcon.Question
+               , MessageBoxDefaultButton.Button2) == DialogResult.Yes)
+            {
+
+                Application.Exit();
+            }
+        }
+
+        private void iconButtonMaximizar_Click(object sender, EventArgs e)
+        {
+            this.WindowState = FormWindowState.Maximized;
+            iconButtonRestaurar.Visible = true;
+            iconButtonMaximizar.Visible = false;
+        }
+
+        private void iconButtonRestaurar_Click(object sender, EventArgs e)
+        {
+            this.WindowState = FormWindowState.Normal;
+            iconButtonRestaurar.Visible = false;
+            iconButtonMaximizar.Visible = true;
+        }
     }
 }
