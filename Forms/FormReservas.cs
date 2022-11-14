@@ -89,6 +89,7 @@ namespace PyCINE_01.Forms
             AbrirFormInPanel(new NuevaReserva());
             dgvReserva.Dispose();
             btnNueva.Dispose();
+            lblReservas.Visible = false;
         }
 
         private void lbl_cerrar_Click(object sender, EventArgs e)

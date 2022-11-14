@@ -11,8 +11,7 @@ namespace PyCINE_01.Entidades
         public int Id_reserva { get; set; }
         public int id_Funcion { get; set; }         //<<<<<<<<<<<<<<<<<
         public string cliente { get; set; }        //<<<<<<<<<<<<<<<<<<  Para consultas
-        public string pelicula { get; set; }      //<<<<<<<<<<<<<<<<<<< 
-        
+        public string pelicula { get; set; }      //<<<<<<<<<<<<<<<<<<<        
         
         public Funcion Funcion { get; set; }
         public Cliente Cliente { get; set; }

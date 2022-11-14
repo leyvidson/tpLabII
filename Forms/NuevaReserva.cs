@@ -39,12 +39,65 @@ namespace PyCINE_01.Forms
             this.Close();
         }
 
-        private void NuevaResrva_Load(object sender, EventArgs e)
+        private void btnGuardarNuevaReserva_Click(object sender, EventArgs e)
         {
-            btnGuardarNuevaReserva.Enabled = false;
-            CargarCombo(cboFuncion, "SP_CONSULTAR_FUNCIONES");
+            if (Validar()) 
+            {
+                Reserva reserva = new Reserva();
+                reserva.cliente = cboCliente.ValueMember;
+                reserva.pelicula = cboPelicula.ValueMember;
+                reserva.FechaReserva = dtpFecha.Value;
+                reserva.Cantidad = Convert.ToInt32(txtCantidad.Text);
+
+                if (oServicio.EjecutarInsert(reserva))
+                {
+                    MessageBox.Show("Se inserto correctame la Reserva", "EXITO", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+                else
+                {
+                    MessageBox.Show("No se pudo insertar la Reserva", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+            }
+        }
+
+        private bool Validar()
+        {
+            bool x = true;
+            if (cboFuncion.SelectedIndex == -1)
+            {
+                MessageBox.Show("Debe seleccionar una Funcion", "Error", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                cboFuncion.Focus();
+            }
+            if (cboCliente.SelectedIndex == -1)
+            {
+                MessageBox.Show("Debe seleccionar un Cliente", "Error", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                cboCliente.Focus();
+            }
+
+            if (cboPelicula.SelectedIndex == -1)
+            {
+                MessageBox.Show("Debe seleccionar una Pelicula", "Error", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                cboPelicula.Focus();
+            }
+            if (dtpFecha.Value == null)
+            {
+                MessageBox.Show("Debe seleccionar una Fecha", "Error", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                dtpFecha.Focus();
+            }
+            if (txtCantidad.Text == String.Empty)
+            {
+                MessageBox.Show("Debe seleccionar la cantidad de entradas", "Error", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                txtCantidad.Focus();
+            }
+            return x;
+        }
+
+        private void NuevaReserva_Load(object sender, EventArgs e)
+        {
+            btnGuardarNuevaReserva.Enabled = true;
+            CargarCombo(cboFuncion, "SP_CONSULTAR_FUNCION");
             CargarCombo(cboCliente, "SP_CONSULTAR_CLIENTES");
-            CargarCombo(cboPelicula, "SP_CONSULTAR_PELICULAS");
+            CargarCombo(cboPelicula, "SP_CONSULTAR_PELICULA");
         }
     }
 }

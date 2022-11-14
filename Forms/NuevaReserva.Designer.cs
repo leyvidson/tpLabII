@@ -29,9 +29,9 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.txtCantidad = new System.Windows.Forms.TextBox();
             this.lblCantidad = new System.Windows.Forms.Label();
-            this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
+            this.dtpFecha = new System.Windows.Forms.DateTimePicker();
             this.lblFecha = new System.Windows.Forms.Label();
             this.cboPelicula = new System.Windows.Forms.ComboBox();
             this.lblPelicula = new System.Windows.Forms.Label();
@@ -41,14 +41,16 @@
             this.lblFuncion = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
             this.btnGuardarNuevaReserva = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel1
             // 
-            this.panel1.Controls.Add(this.textBox1);
+            this.panel1.Controls.Add(this.label1);
+            this.panel1.Controls.Add(this.txtCantidad);
             this.panel1.Controls.Add(this.lblCantidad);
-            this.panel1.Controls.Add(this.dateTimePicker1);
+            this.panel1.Controls.Add(this.dtpFecha);
             this.panel1.Controls.Add(this.lblFecha);
             this.panel1.Controls.Add(this.cboPelicula);
             this.panel1.Controls.Add(this.lblPelicula);
@@ -61,13 +63,14 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(690, 327);
             this.panel1.TabIndex = 0;
+
             // 
-            // textBox1
+            // txtCantidad
             // 
-            this.textBox1.Location = new System.Drawing.Point(118, 218);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(128, 20);
-            this.textBox1.TabIndex = 33;
+            this.txtCantidad.Location = new System.Drawing.Point(118, 218);
+            this.txtCantidad.Name = "txtCantidad";
+            this.txtCantidad.Size = new System.Drawing.Size(128, 20);
+            this.txtCantidad.TabIndex = 33;
             // 
             // lblCantidad
             // 
@@ -78,12 +81,12 @@
             this.lblCantidad.TabIndex = 32;
             this.lblCantidad.Text = "Cantidad";
             // 
-            // dateTimePicker1
+            // dtpFecha
             // 
-            this.dateTimePicker1.Location = new System.Drawing.Point(117, 178);
-            this.dateTimePicker1.Name = "dateTimePicker1";
-            this.dateTimePicker1.Size = new System.Drawing.Size(200, 20);
-            this.dateTimePicker1.TabIndex = 31;
+            this.dtpFecha.Location = new System.Drawing.Point(117, 178);
+            this.dtpFecha.Name = "dtpFecha";
+            this.dtpFecha.Size = new System.Drawing.Size(200, 20);
+            this.dtpFecha.TabIndex = 31;
             // 
             // lblFecha
             // 
@@ -171,6 +174,17 @@
             this.btnGuardarNuevaReserva.TabIndex = 2;
             this.btnGuardarNuevaReserva.Text = "Guardar";
             this.btnGuardarNuevaReserva.UseVisualStyleBackColor = true;
+            this.btnGuardarNuevaReserva.Click += new System.EventHandler(this.btnGuardarNuevaReserva_Click);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(250, 26);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(134, 22);
+            this.label1.TabIndex = 34;
+            this.label1.Text = "Nueva Reserva";
             // 
             // NuevaReserva
             // 
@@ -182,6 +196,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "NuevaReserva";
             this.Text = "NuevaReserva";
+            this.Load += new System.EventHandler(this.NuevaReserva_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.ResumeLayout(false);
@@ -200,8 +215,9 @@
         private System.Windows.Forms.Label lblCliente;
         private System.Windows.Forms.Label lblFuncion;
         private System.Windows.Forms.Label lblCantidad;
-        private System.Windows.Forms.DateTimePicker dateTimePicker1;
+        private System.Windows.Forms.DateTimePicker dtpFecha;
         private System.Windows.Forms.Label lblFecha;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox txtCantidad;
+        private System.Windows.Forms.Label label1;
     }
 }
