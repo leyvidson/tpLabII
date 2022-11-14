@@ -98,11 +98,14 @@ namespace PyCINE_01.Forms
 
         private void dgvReserva_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
+            DataGridViewRow actual = dgvReserva.CurrentRow;
+
             if (dgvReserva.CurrentCell.ColumnIndex == 6)
             {
+                int nro = int.Parse(dgvReserva.CurrentRow.Cells["id"].Value.ToString());
                 //aca mandamos a imprimir el ticket
                 MostrarReporte mostrar = new MostrarReporte();
-                mostrar.Id_ticket = dgvReserva.CurrentCell.ColumnIndex;
+                mostrar.Id_ticket = nro;
 
                 mostrar.ShowDialog();
                 
